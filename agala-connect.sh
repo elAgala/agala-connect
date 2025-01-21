@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration file location
-CONFIG_FILE="$HOME/.config/agala-server/servers.json"
+CONFIG_FILE="$HOME/.config/agala-connect/servers.json"
 
 # Function to get server details from the JSON config file
 get_server_details() {
